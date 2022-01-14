@@ -1,5 +1,6 @@
 # 0xMiningCalculationSheet
 Hey Miner,
+
 This is a calculation sheet to track your profits and costs for your mining operation.
 I'am developing this sheet actually since 2017, as I was mining from 2017 till 2019 and than came back again to the mining community in 2021.							
 Since then this Sheet has gone trough a lot of changes, updates and iterrations, but just now i feel that this could be a solid framework which can be build on further.
