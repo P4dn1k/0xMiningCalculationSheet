@@ -19,25 +19,31 @@ The sheet consists of two types of cells:
 
 This calculations will be made automatically as soon as you pull the cell, here's an guide on how to use the sheet on an example of flexpool.io:
 
-![how to usegif](https://user-images.githubusercontent.com/80412388/149536610-f5362a27-c896-4585-9d43-690db0669d50.gif)
+https://user-images.githubusercontent.com/80412388/149542576-590795b5-0ac9-44cb-9154-2988342b31ce.mp4
+
+
 
 
 
 You can add pools to the right side of the sheet, they will automatically fill all the other sheets if you pull them.
 
-![How to add poolsgif](https://user-images.githubusercontent.com/80412388/149536956-c52a7a3b-7427-43da-b903-3168e8543932.gif)
+https://user-images.githubusercontent.com/80412388/149542665-d4e638fa-0988-4775-91b7-b07ee90d5710.mp4
 
 
 
 This sheet can also calculate multiple coins, but you need to add the conversion rate yourself from the Dataset sheet.
 
-![How to add other coins and poolsgif](https://user-images.githubusercontent.com/80412388/149537015-a2c75c5d-ef6a-4297-80a1-56c169eb2c86.gif)
+https://user-images.githubusercontent.com/80412388/149542714-fc290223-7cf3-41e1-bd94-f783949829d2.mp4
+
+
 
 
 
 Each gray box in the Dayli_Profit sheet represents a month, so make sure you stay in that range, otherwise the calculations in the further sheets wont be correct.
 
-![how to use for monthsgif](https://user-images.githubusercontent.com/80412388/149537030-c300c49c-f502-4601-ba93-f604836f4a89.gif)
+https://user-images.githubusercontent.com/80412388/149542754-d5315f21-599a-4c71-aa81-c05d54351c4b.mp4
+
+
 
 
 
