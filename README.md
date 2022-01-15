@@ -63,6 +63,8 @@ If you have any questions, I am glad to help, or you could also pull a request o
 
 Happy Mining!
 
+Donations:
+
 BTC: bc1qu4vukxrhpp6hr8h853ugtzgkyh2a2uaud6qpr8
 
 ETH (ERC20 or Polygon): 0x84B751981c027922937D2f60614c32f5Dcd284b3
