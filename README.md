@@ -20,6 +20,7 @@ The sheet consists of two types of cells:
 1st Type of cell is the one you fill out your data manually (Brighter grey). 
 
 2nd Type of cell is that one which are some calculations are made and you don't need to fill out anything manually (Darker grey).
+
 ![1](https://user-images.githubusercontent.com/80412388/149536042-e0e5fa39-a9e8-44a0-91b1-06f9c7e65a51.png)
 
 
