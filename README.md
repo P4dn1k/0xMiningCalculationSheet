@@ -2,9 +2,13 @@
 Hey Miner,
 
 This is a calculation spreadsheet to track your profits and costs for your mining operation. 
+
 I'm developing this sheet actually since 2017 till now. 
+
 Since then this Sheet has gone trough a lot of changes, updates and iterations, but just now i feel that this could be a solid framework which can be build on further. 
+
 Feel free to use, copy, develop, change the sheet as you wish.
+
 If you are doing changes to the sheet for the better, making a fork public would be very appreciated.
 
 https://docs.google.com/spreadsheets/d/15RaMFzUHaoNgwgHiAK74CFbqax0wmZXLp9Ub3znIfWA/edit?usp=sharing
