@@ -13,7 +13,6 @@ If you are doing changes to the sheet for the better, making a fork public would
 
 https://docs.google.com/spreadsheets/d/15RaMFzUHaoNgwgHiAK74CFbqax0wmZXLp9Ub3znIfWA/edit?usp=sharing
 
-
 How to use it?
 
 The sheet consists of two types of cells: 
