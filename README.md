@@ -1,8 +1,11 @@
 # 0xMiningCalculationSheet
 Hey Miner,
-This is a calculation sheet to track your profits and costs for your mining operation. 
-I'am developing this sheet actually since 2017, as I was mining from 2017 till 2019 and than came back again to the mining community in 2021. Since then this Sheet has gone trough a lot of changes, updates and iterations, but just now i feel that this could be a solid framework which can be build on further. 
+
+This is a calculation spreadsheet to track your profits and costs for your mining operation. 
+I'm developing this sheet actually since 2017 till now. 
+Since then this Sheet has gone trough a lot of changes, updates and iterations, but just now i feel that this could be a solid framework which can be build on further. 
 Feel free to use, copy, develop, change the sheet as you wish.
+If you are doing changes to the sheet for the better, making a fork public would be very appreciated.
 
 https://docs.google.com/spreadsheets/d/15RaMFzUHaoNgwgHiAK74CFbqax0wmZXLp9Ub3znIfWA/edit?usp=sharing
 
@@ -48,18 +51,20 @@ https://user-images.githubusercontent.com/80412388/149542754-d5315f21-599a-4c71-
 
 
 Sheet Backend Explained:
-The Dayli_Profit Sheet is the main driver of the sheet where all data are collected for the other sheets. Monthly_Profit is sumarising the data from the Daily_Profit Sheet. 
+
+The Dayli_Profit Sheet is the main driver of the sheet where all data are collected for the other spread sheets. 
+
+Monthly_Profit is sumarising the data from the Daily_Profit Sheet. 
 
 Average/Day is pulling Average values from the Daily_Profit Sheet. 
-Pending Pool Payouts is showing how much have you mined into the pool till the payout threshold is met. You need to enter the payout threshold manually.
+
+Pending Pool Payouts is showing how much you have mined into the pool till the payout threshold is met. You need to enter the payout threshold manually.
 
 In Pool_Payouts you will enter the Payouts the pool made to your wallet. 
 
 Dataset is the Backend of the sheet, where conversion rates can be found and the electricity cost. 
 
 Please edit the sheet to the corresponding rates of your local currency.
-
-If you have any questions, I am glad to help, or you could also pull a request on my github.
 
 Happy Mining!
 
